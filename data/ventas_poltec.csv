@@ -1,0 +1,161 @@
+id_venta,fecha,id_cliente,id_producto,nombre_producto,categoria,cantidad,precio_unitario,total,pais
+1,25/01/2024,C054,P007,"Monitor LED 24""",Electronica,3,140.31,420.93,Chile
+2,01/02/2024,C029,P113,Marcadores Permanentes,Utiles,5,8.7,43.5,Chile
+3,25/03/2024,C075,P114,Regla 30cm,Utiles,1,12.66,12.66,Ecuador
+4,25/04/2024,C107,P011,Silla Ergonómica,Oficina,4,35.19,140.76,Colombia
+5,04/03/2024,C105,P020,Carpeta Plástica,Utiles,1,44.21,44.21,Chile
+6,20/01/2024,C035,P061,Calculadora Científica,Oficina,3,101.3,303.9,Colombia
+7,08/02/2024,C082,P046,Cámara Web HD,Electronica,3,10.52,31.56,Ecuador
+8,26/03/2024,C009,P114,Regla 30cm,Utiles,1,12.66,12.66,Colombia
+9,27/03/2024,C107,P066,Disco Duro Externo 1TB,Electronica,1,95.46,95.46,Colombia
+10,15/02/2024,C008,P047,Memoria USB 64GB,Electronica,3,"160,07",480.21,Colombia
+11,04/03/2024,C036,P005,Audífonos Bluetooth,Electronica,5,7.75,38.75,Chile
+12,14/01/2024,C030,P021,Disco Duro Externo 1TB,Electronica,1,61.94,61.94,Peru
+13,22/02/2024,C026,P069,Regla 30cm,Utiles,3,66.16,198.48,Colombia
+14,24/02/2024,C011,P094,Marcadores Permanentes,,5,52.83,264.15,Peru
+15,28/01/2024,C065,P106,"Monitor LED 24""",Electronica,2,51.49,102.98,Ecuador
+16,18/03/2024,C069,P094,Marcadores Permanentes,Utiles,3,52.83,158.49,Colombia
+17,04/03/2024,C062,P003,Cámara Web HD,Electronica,3,162.53,487.59,Colombia
+18,13/04/2024,C003,P111,Marcadores Permanentes,Utiles,4,24.3,97.2,Peru
+19,28/01/2024,C088,P087,Carpeta Plástica,Utiles,1,93.92,93.92,Ecuador
+20,27/01/2024,C060,P040,Carpeta Plástica,Utiles,4,16.2,64.8,Peru
+21,23/01/2024,C079,P002,Marcadores Permanentes,Utiles,3,"98,42",295.26,Peru
+22,06/04/2024,C049,P078,Silla Ergonómica,Oficina,1,67.03,,Colombia
+23,05/03/2024,C113,P024,Teclado Mecánico,,5,145.03,725.15,Chile
+24,06/03/2024,C072,P027,Memoria USB 64GB,Electronica,2,113.51,227.02,Peru
+25,04/04/2024,C099,P100,Organizador de Escritorio,Oficina,4,188.99,755.96,Peru
+26,31/01/2024,C052,P117,Mouse Inalámbrico,Electronica,1,194.7,194.7,Colombia
+27,26/03/2024,C105,P046,Cámara Web HD,Electronica,5,10.52,52.6,Peru
+28,04/01/2024,C117,P074,Marcadores Permanentes,Utiles,2,193.59,387.18,Chile
+29,26/03/2024,C095,P075,Archivador Metálico,Oficina,,141.39,141.39,Colombia
+30,28/01/2024,C119,P095,Calculadora Científica,Oficina,1,64.66,64.66,Peru
+31,07/02/2024,C016,P115,Carpeta Plástica,Utiles,5,141.58,707.9,Colombia
+32,19/03/2024,C083,P031,Escritorio Ajustable,Oficina,4,25.14,100.56,Chile
+33,06/04/2024,C025,P099,Teclado Mecánico,Electronica,4,20.51,82.04,Colombia
+34,25/02/2024,C106,P033,Escritorio Ajustable,Oficina,2,138.25,276.5,Chile
+35,02/03/2024,C034,P029,Memoria USB 64GB,Electronica,4,167.56,670.24,Ecuador
+36,27/01/2024,C005,P069,Regla 30cm,Utiles,N/A,66.16,264.64,Peru
+37,12/04/2024,C039,P076,Regla 30cm,Utiles,4,41.96,167.84,Colombia
+38,21/01/2024,C049,P094,Marcadores Permanentes,Utiles,2,52.83,105.66,Colombia
+39,01/01/2024,C100,P051,Marcadores Permanentes,Utiles,1,32.17,32.17,Peru
+40,26/01/2024,C063,P074,Marcadores Permanentes,Utiles,4,193.59,774.36,Colombia
+41,13/04/2024,C098,P112,Audífonos Bluetooth,Electronica,5,73.37,366.85,Chile
+42,04/01/2024,C048,P087,Carpeta Plástica,Utiles,1,93.92,93.92,Colombia
+43,29/02/2024,C046,P064,Cuaderno Universitario,Utiles,3,122.76,368.28,Chile
+44,17/03/2024,C092,P073,Audífonos Bluetooth,Electronica,4,104.1,,Ecuador
+45,06/04/2024,C014,P111,Marcadores Permanentes,,3,24.3,72.9,Peru
+46,03/04/2024,C101,P084,"Monitor LED 24""",Electronica,3,9.86,29.58,Chile
+47,28/04/2024,C115,P102,Disco Duro Externo 1TB,Electronica,1,45.13,45.13,Colombia
+48,23/04/2024,C109,P077,Marcadores Permanentes,Utiles,3,195.49,586.47,Ecuador
+49,01/02/2024,C082,P096,Organizador de Escritorio,Oficina,3,192.92,578.76,Colombia
+50,14/01/2024,C088,P019,Mouse Inalámbrico,Electronica,3,114.22,342.66,Peru
+51,06/03/2024,C027,P083,Carpeta Plástica,Utiles,2,175.75,351.5,Colombia
+52,28/01/2024,C005,P064,Cuaderno Universitario,Utiles,4,122.76,491.04,Peru
+53,17/02/2024,C002,P118,Cámara Web HD,Electronica,5,77.26,386.3,Colombia
+54,06/02/2024,C008,P108,Disco Duro Externo 1TB,Electronica,2,96.06,192.12,Peru
+55,08/01/2024,C016,P090,Cuaderno Universitario,Utiles,4,12.3,49.2,Ecuador
+56,17/03/2024,C091,P093,Regla 30cm,Utiles,2,135.27,270.54,Chile
+57,09/03/2024,C071,P063,Escritorio Ajustable,Oficina,5,143.45,717.25,Peru
+58,22/03/2024,C047,P056,Escritorio Ajustable,Oficina,,31.04,31.04,Colombia
+59,06/04/2024,C057,P045,Carpeta Plástica,Utiles,4,14.63,58.52,Chile
+60,16/03/2024,C029,P093,Regla 30cm,Utiles,5,135.27,676.35,Chile
+61,03/01/2024,C110,P102,Disco Duro Externo 1TB,Electronica,2,45.13,90.26,Chile
+62,09/04/2024,C076,P108,Disco Duro Externo 1TB,Electronica,2,96.06,192.12,Ecuador
+63,20/01/2024,C022,P045,Carpeta Plástica,Utiles,4,14.63,58.52,Ecuador
+64,11/02/2024,C089,P103,Archivador Metálico,Oficina,3,"130,11",390.33,Peru
+65,07/01/2024,C059,P039,Cámara Web HD,Electronica,2,162.03,324.06,Colombia
+66,02/01/2024,C080,P026,Regla 30cm,Utiles,2,150.89,,Colombia
+67,29/01/2024,C071,P109,Calculadora Científica,Oficina,2,125.33,250.66,Ecuador
+68,23/03/2024,C015,P022,Organizador de Escritorio,Oficina,N/A,80.23,401.15,Chile
+69,27/01/2024,C090,P016,Escritorio Ajustable,Oficina,1,19.55,19.55,Colombia
+70,11/01/2024,C100,P069,Regla 30cm,Utiles,1,"66,16",66.16,Colombia
+71,13/03/2024,C013,P029,Memoria USB 64GB,Electronica,5,167.56,837.8,Colombia
+72,14/03/2024,C101,P027,Memoria USB 64GB,Electronica,4,113.51,454.04,Ecuador
+73,10/02/2024,C104,P052,Cuaderno Universitario,Utiles,3,79.56,238.68,Peru
+74,05/01/2024,C074,P114,Regla 30cm,Utiles,4,12.66,50.64,Chile
+75,08/04/2024,C104,P006,Carpeta Plástica,Utiles,4,18.51,74.04,Chile
+76,28/04/2024,C082,P024,Teclado Mecánico,Electronica,1,145.03,145.03,Ecuador
+77,09/04/2024,C061,P100,Organizador de Escritorio,Oficina,3,188.99,566.97,Peru
+78,07/02/2024,C044,P068,"Monitor LED 24""",Electronica,2,54.32,108.64,Peru
+79,24/03/2024,C034,P085,Carpeta Plástica,Utiles,4,13.2,52.8,Chile
+80,07/01/2024,C015,P118,Cámara Web HD,Electronica,3,77.26,231.78,Peru
+81,03/03/2024,C042,P075,Archivador Metálico,Oficina,1,141.39,141.39,Colombia
+82,09/02/2024,C040,P097,Teclado Mecánico,Electronica,2,65.96,131.92,Chile
+83,25/03/2024,C087,P015,Teclado Mecánico,,3,134.7,404.1,Chile
+84,07/01/2024,C048,P117,Mouse Inalámbrico,Electronica,2,194.7,389.4,Chile
+85,21/03/2024,C061,P066,Disco Duro Externo 1TB,Electronica,1,95.46,95.46,Colombia
+86,02/04/2024,C026,P072,Carpeta Plástica,Utiles,3,189.9,569.7,Ecuador
+87,18/03/2024,C043,P064,Cuaderno Universitario,Utiles,,122.76,368.28,Chile
+88,24/02/2024,C065,P024,Teclado Mecánico,Electronica,error,145.03,,Colombia
+89,28/01/2024,C028,P021,Disco Duro Externo 1TB,Electronica,1,61.94,61.94,Colombia
+90,02/01/2024,C086,P112,Audífonos Bluetooth,Electronica,3,73.37,220.11,Colombia
+91,01/02/2024,C095,P109,Calculadora Científica,Oficina,4,125.33,501.32,Peru
+92,25/01/2024,C036,P068,"Monitor LED 24""",Electronica,4,54.32,217.28,Colombia
+93,02/03/2024,C019,P089,Escritorio Ajustable,Oficina,3,128.21,384.63,Peru
+94,06/02/2024,C087,P048,Organizador de Escritorio,Oficina,2,155.69,311.38,Ecuador
+95,01/02/2024,C093,P113,Marcadores Permanentes,Utiles,1,8.7,8.7,Peru
+96,18/02/2024,C106,P042,Marcadores Permanentes,Utiles,5,11.78,58.9,Colombia
+97,04/01/2024,C081,P093,Regla 30cm,Utiles,4,135.27,541.08,Peru
+98,28/01/2024,C102,P118,Cámara Web HD,Electronica,3,77.26,231.78,Colombia
+99,21/04/2024,C004,P102,Disco Duro Externo 1TB,Electronica,1,45.13,45.13,Colombia
+100,25/01/2024,C064,P106,"Monitor LED 24""",Electronica,4,51.49,205.96,Colombia
+101,18/02/2024,C085,P022,Organizador de Escritorio,Oficina,4,80.23,320.92,Peru
+102,07/03/2024,C050,P099,Teclado Mecánico,Electronica,2,20.51,41.02,Ecuador
+103,06/04/2024,C012,P018,Regla 30cm,Utiles,1,197.82,197.82,Colombia
+104,07/04/2024,C061,P059,Mouse Inalámbrico,Electronica,N/A,132.79,132.79,Ecuador
+105,15/01/2024,C023,P010,Cuaderno Universitario,Utiles,3,131.52,394.56,Peru
+106,21/04/2024,C092,P084,"Monitor LED 24""",Electronica,4,9.86,39.44,Peru
+107,03/04/2024,C071,P053,Audífonos Bluetooth,Electronica,4,56.56,226.24,Ecuador
+108,01/01/2024,C090,P036,Audífonos Bluetooth,Electronica,3,177.22,531.66,Chile
+109,29/02/2024,C081,P107,Marcadores Permanentes,Utiles,3,144.66,433.98,Peru
+110,18/04/2024,C045,P113,Marcadores Permanentes,,3,8.7,,Colombia
+111,24/03/2024,C120,P068,"Monitor LED 24""",Electronica,,54.32,162.96,Peru
+112,14/04/2024,C012,P027,Memoria USB 64GB,Electronica,2,113.51,227.02,Peru
+113,01/01/2024,C044,P102,Disco Duro Externo 1TB,Electronica,2,45.13,90.26,Ecuador
+114,29/03/2024,C028,P022,Organizador de Escritorio,Oficina,3,80.23,240.69,Ecuador
+115,23/01/2024,C042,P006,Carpeta Plástica,Utiles,1,18.51,18.51,Colombia
+116,18/04/2024,C042,P109,Calculadora Científica,Oficina,,125.33,250.66,Colombia
+117,13/01/2024,C023,P078,Silla Ergonómica,Oficina,2,67.03,134.06,Peru
+118,11/02/2024,C028,P053,Audífonos Bluetooth,,3,56.56,169.68,Chile
+119,05/04/2024,C119,P050,Archivador Metálico,Oficina,3,32.07,96.21,Ecuador
+120,11/02/2024,C030,P032,Teclado Mecánico,Electronica,3,156.52,469.56,Peru
+121,08/04/2024,C112,P106,"Monitor LED 24""",Electronica,4,51.49,205.96,Colombia
+122,25/04/2024,C118,P011,Silla Ergonómica,Oficina,5,35.19,175.95,Chile
+123,24/01/2024,C093,P059,Mouse Inalámbrico,Electronica,2,132.79,265.58,Chile
+124,26/04/2024,C063,P007,"Monitor LED 24""",Electronica,4,140.31,561.24,Ecuador
+125,03/03/2024,C116,P116,Audífonos Bluetooth,Electronica,5,188.6,943,Colombia
+126,26/04/2024,C016,P105,Memoria USB 64GB,Electronica,5,105.36,526.8,Ecuador
+127,09/02/2024,C067,P093,Regla 30cm,Utiles,1,135.27,135.27,Colombia
+128,21/03/2024,C114,P093,Regla 30cm,Utiles,1,135.27,135.27,Ecuador
+129,12/01/2024,C074,P112,Audífonos Bluetooth,Electronica,4,73.37,293.48,Chile
+130,20/04/2024,C051,P047,Memoria USB 64GB,Electronica,5,160.07,800.35,Chile
+131,24/01/2024,C073,P063,Escritorio Ajustable,Oficina,3,143.45,430.35,Peru
+132,08/02/2024,C009,P082,Cámara Web HD,,2,96.82,,Colombia
+133,24/03/2024,C041,P021,Disco Duro Externo 1TB,Electronica,4,61.94,247.76,Peru
+134,20/02/2024,C069,P099,Teclado Mecánico,Electronica,3,20.51,61.53,Ecuador
+135,06/03/2024,C007,P048,Organizador de Escritorio,Oficina,N/A,155.69,778.45,Ecuador
+136,23/04/2024,C031,P083,Carpeta Plástica,Utiles,2,175.75,351.5,Chile
+137,07/02/2024,C066,P044,Escritorio Ajustable,Oficina,4,196.77,787.08,Colombia
+138,01/03/2024,C036,P085,Carpeta Plástica,Utiles,5,13.2,66,Colombia
+139,10/02/2024,C041,P088,Disco Duro Externo 1TB,Electronica,5,80.15,400.75,Chile
+140,06/04/2024,C030,P069,Regla 30cm,Utiles,4,66.16,264.64,Peru
+141,10/03/2024,C068,P027,Memoria USB 64GB,Electronica,2,113.51,227.02,Colombia
+142,03/02/2024,C107,P013,Cámara Web HD,Electronica,2,36.41,72.82,Chile
+143,09/03/2024,C035,P055,Carpeta Plástica,Utiles,5,55.15,275.75,Colombia
+144,12/01/2024,C111,P065,Cuaderno Universitario,Utiles,3,159.19,477.57,Ecuador
+145,13/03/2024,C009,P109,Calculadora Científica,Oficina,,125.33,375.99,Colombia
+146,30/03/2024,C002,P069,Regla 30cm,Utiles,2,66.16,132.32,Colombia
+147,30/03/2024,C054,P082,Cámara Web HD,Electronica,4,96.82,387.28,Chile
+148,29/03/2024,C024,P034,Regla 30cm,Utiles,5,180.25,901.25,Chile
+149,01/04/2024,C038,P025,Silla Ergonómica,Oficina,1,100.85,100.85,Chile
+150,24/04/2024,C086,P054,Escritorio Ajustable,Oficina,2,171.08,342.16,Peru
+151,03/03/2024,C037,P120,Carpeta Plástica,Utiles,4,108.24,432.96,Colombia
+152,02/02/2024,C048,P008,Calculadora Científica,Oficina,3,125.1,375.3,Peru
+153,06/03/2024,C008,P068,"Monitor LED 24""",Electronica,4,54.32,217.28,Peru
+154,24/04/2024,C030,P087,Carpeta Plástica,Utiles,2,93.92,,Colombia
+155,24/03/2024,C102,P014,Marcadores Permanentes,Utiles,3,83.26,249.78,Colombia
+156,23/01/2024,C041,P022,Organizador de Escritorio,Oficina,5,80.23,401.15,Ecuador
+157,18/04/2024,C087,P005,Audífonos Bluetooth,Electronica,1,7.75,7.75,Chile
+158,17/03/2024,C024,P106,"Monitor LED 24""",Electronica,5,51.49,257.45,Colombia
+159,15/04/2024,C039,P051,Marcadores Permanentes,Utiles,4,32.17,128.68,Chile
+160,22/01/2024,C019,P101,Carpeta Plástica,Utiles,error,196.69,196.69,Colombia
