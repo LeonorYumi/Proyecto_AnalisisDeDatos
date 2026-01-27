@@ -1,7 +1,7 @@
 # PolitecStore — Análisis de datos 
 
 Autor: LeonorYumi  
-Fecha: 2026-01-27
+
 
 Descripción
 -----------------
