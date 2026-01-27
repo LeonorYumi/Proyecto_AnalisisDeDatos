@@ -8,7 +8,7 @@
         <entry key="authored-by" type="xstring" value="User"/>
         <entry key="authored-when" type="xstring" value="2026-01-26 22:19:04 -0500"/>
         <entry key="lastEdited-by" type="xstring" value="User"/>
-        <entry key="lastEdited-when" type="xstring" value="2026-01-27 03:51:36 -0500"/>
+        <entry key="lastEdited-when" type="xstring" value="2026-01-27 04:19:08 -0500"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
@@ -775,7 +775,39 @@
             <config key="ui_settings">
                 <config key="extrainfo.node.bounds">
                     <entry key="array-size" type="xint" value="4"/>
-                    <entry key="0" type="xint" value="1710"/>
+                    <entry key="0" type="xint" value="1755"/>
+                    <entry key="1" type="xint" value="354"/>
+                    <entry key="2" type="xint" value="-1"/>
+                    <entry key="3" type="xint" value="-1"/>
+                </config>
+            </config>
+        </config>
+        <config key="node_52">
+            <entry key="id" type="xint" value="52"/>
+            <entry key="node_settings_file" type="xstring" value="Duplicate Row Filter (#52)/settings.xml"/>
+            <entry key="node_is_meta" type="xboolean" value="false"/>
+            <entry key="node_type" type="xstring" value="NativeNode"/>
+            <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.NodeUIInformation"/>
+            <config key="ui_settings">
+                <config key="extrainfo.node.bounds">
+                    <entry key="array-size" type="xint" value="4"/>
+                    <entry key="0" type="xint" value="1665"/>
+                    <entry key="1" type="xint" value="354"/>
+                    <entry key="2" type="xint" value="-1"/>
+                    <entry key="3" type="xint" value="-1"/>
+                </config>
+            </config>
+        </config>
+        <config key="node_53">
+            <entry key="id" type="xint" value="53"/>
+            <entry key="node_settings_file" type="xstring" value="Missing Value (#53)/settings.xml"/>
+            <entry key="node_is_meta" type="xboolean" value="false"/>
+            <entry key="node_type" type="xstring" value="NativeNode"/>
+            <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.NodeUIInformation"/>
+            <config key="ui_settings">
+                <config key="extrainfo.node.bounds">
+                    <entry key="array-size" type="xint" value="4"/>
+                    <entry key="0" type="xint" value="1850"/>
                     <entry key="1" type="xint" value="354"/>
                     <entry key="2" type="xint" value="-1"/>
                     <entry key="3" type="xint" value="-1"/>
@@ -1026,7 +1058,7 @@
         </config>
         <config key="connection_40">
             <entry key="sourceID" type="xint" value="44"/>
-            <entry key="destID" type="xint" value="51"/>
+            <entry key="destID" type="xint" value="52"/>
             <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="1"/>
         </config>
@@ -1065,6 +1097,18 @@
             <entry key="destID" type="xint" value="44"/>
             <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="2"/>
+        </config>
+        <config key="connection_47">
+            <entry key="sourceID" type="xint" value="51"/>
+            <entry key="destID" type="xint" value="53"/>
+            <entry key="sourcePort" type="xint" value="1"/>
+            <entry key="destPort" type="xint" value="1"/>
+        </config>
+        <config key="connection_48">
+            <entry key="sourceID" type="xint" value="52"/>
+            <entry key="destID" type="xint" value="51"/>
+            <entry key="sourcePort" type="xint" value="1"/>
+            <entry key="destPort" type="xint" value="1"/>
         </config>
     </config>
     <config key="workflow_editor_settings">

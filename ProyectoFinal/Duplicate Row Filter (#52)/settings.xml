@@ -6,36 +6,36 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <config key="column-filter">
+        <config key="group_cols">
             <entry key="filter-type" type="xstring" value="STANDARD"/>
             <config key="included_names">
-                <entry key="array-size" type="xint" value="11"/>
-                <entry key="0" type="xstring" value="fecha_venta"/>
+                <entry key="array-size" type="xint" value="3"/>
+                <entry key="0" type="xstring" value="id_venta"/>
                 <entry key="1" type="xstring" value="id_referencia"/>
                 <entry key="2" type="xstring" value="producto"/>
-                <entry key="3" type="xstring" value="categoria"/>
-                <entry key="4" type="xstring" value="stock"/>
-                <entry key="5" type="xstring" value="precio"/>
-                <entry key="6" type="xstring" value="total"/>
-                <entry key="7" type="xstring" value="ubicacion"/>
-                <entry key="8" type="xstring" value="fecha_envio"/>
-                <entry key="9" type="xstring" value="estado"/>
-                <entry key="10" type="xstring" value="proveedor"/>
             </config>
             <config key="excluded_names">
-                <entry key="array-size" type="xint" value="12"/>
-                <entry key="0" type="xstring" value="id_venta"/>
+                <entry key="array-size" type="xint" value="20"/>
+                <entry key="0" type="xstring" value="fecha_venta"/>
                 <entry key="1" type="xstring" value="id_cliente"/>
-                <entry key="2" type="xstring" value="cliente"/>
-                <entry key="3" type="xstring" value="edad"/>
-                <entry key="4" type="xstring" value="ciudad"/>
-                <entry key="5" type="xstring" value="email"/>
-                <entry key="6" type="xstring" value="id_envio"/>
-                <entry key="7" type="xstring" value="id_empleado"/>
-                <entry key="8" type="xstring" value="nombre_empelado"/>
-                <entry key="9" type="xstring" value="cargo"/>
-                <entry key="10" type="xstring" value="salario"/>
-                <entry key="11" type="xstring" value="fecha_contratacion"/>
+                <entry key="2" type="xstring" value="categoria"/>
+                <entry key="3" type="xstring" value="stock"/>
+                <entry key="4" type="xstring" value="precio"/>
+                <entry key="5" type="xstring" value="total"/>
+                <entry key="6" type="xstring" value="ubicacion"/>
+                <entry key="7" type="xstring" value="cliente"/>
+                <entry key="8" type="xstring" value="edad"/>
+                <entry key="9" type="xstring" value="ciudad"/>
+                <entry key="10" type="xstring" value="email"/>
+                <entry key="11" type="xstring" value="id_envio"/>
+                <entry key="12" type="xstring" value="fecha_envio"/>
+                <entry key="13" type="xstring" value="estado"/>
+                <entry key="14" type="xstring" value="proveedor"/>
+                <entry key="15" type="xstring" value="id_empleado"/>
+                <entry key="16" type="xstring" value="nombre_empelado"/>
+                <entry key="17" type="xstring" value="cargo"/>
+                <entry key="18" type="xstring" value="salario"/>
+                <entry key="19" type="xstring" value="fecha_contratacion"/>
             </config>
             <entry key="enforce_option" type="xstring" value="EnforceInclusion"/>
             <config key="name_pattern">
@@ -48,12 +48,23 @@
                 <config key="typelist"/>
             </config>
         </config>
+        <entry key="remove_duplicates" type="xboolean" value="true"/>
+        <entry key="add_row_duplicate_flag" type="xboolean" value="true"/>
+        <entry key="unique_flag_column_name" type="xstring" value="Duplicate Status"/>
+        <entry key="add_row_id_flag" type="xboolean" value="false"/>
+        <entry key="row_id_flag_column_name" type="xstring" value="Duplicate Chosen"/>
+        <entry key="doNotAllowEmptyBlankOrPaddedColumnName_Internals" type="xboolean" value="true"/>
+        <entry key="row_selection" type="xstring" value="FIRST"/>
+        <entry key="reference_col" type="xstring" isnull="true" value=""/>
+        <entry key="in_memory" type="xboolean" value="false"/>
+        <entry key="retain_order" type="xboolean" value="true"/>
+        <entry key="update_domains" type="xboolean" value="false"/>
     </config>
     <config key="variables"/>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
-    <entry key="factory" type="xstring" value="org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory"/>
-    <entry key="node-name" type="xstring" value="Column Filter"/>
+    <entry key="factory" type="xstring" value="org.knime.base.node.preproc.duplicates.DuplicateRowFilterNodeFactory"/>
+    <entry key="node-name" type="xstring" value="Duplicate Row Filter"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
     <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
     <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
@@ -63,7 +74,7 @@
     <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
     <entry key="node-feature-version" type="xstring" value="5.9.0.v202511140634"/>
     <config key="factory_settings"/>
-    <entry key="name" type="xstring" value="Column Filter"/>
+    <entry key="name" type="xstring" value="Duplicate Row Filter"/>
     <entry key="hasContent" type="xboolean" value="true"/>
     <entry key="isInactive" type="xboolean" value="false"/>
     <config key="ports">
@@ -71,12 +82,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 380, Cols: 11"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 380, Cols: 23"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="5281aa76-9685-4947-8b76-b9077a127fa3"/>
+        <entry key="file_store_id" type="xstring" value="ce35f221-9c25-4920-8395-ceacfd14bcb4"/>
     </config>
 </config>
